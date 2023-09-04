@@ -1,7 +1,8 @@
 Hi everyone I'm Maciej 👋
 I'd like to become a Junior Full Stack Developer!
-[Microsoft_ NET_logo svg](https://github.com/MaciejTrebacz/MaciejTrebacz/assets/106514256/3ab20093-ed38-4f76-9f25-5941b16a3acc)
-![246162060-791f9900-634b-4442-a47f-109e9b390e93](https://github.com/MaciejTrebacz/MaciejTrebacz/assets/106514256/93812417-1e0a-4f2c-8d57-028f1f9ec148)
+
+![Untitled](https://github.com/MaciejTrebacz/MaciejTrebacz/assets/106514256/cec3b8f6-0cca-49d8-a11c-70e63d678597)![111](https://github.com/MaciejTrebacz/MaciejTrebacz/assets/106514256/6dd7aecf-c189-4f3a-8500-a5c2d4cd3c9c)
+
 
 
 **Front-End Development:** 🌐
