@@ -3,7 +3,7 @@ I'd like to become a Junior Full Stack Developer!
 
 ![Untitled](https://github.com/MaciejTrebacz/MaciejTrebacz/assets/106514256/cec3b8f6-0cca-49d8-a11c-70e63d678597)![111](https://github.com/MaciejTrebacz/MaciejTrebacz/assets/106514256/6dd7aecf-c189-4f3a-8500-a5c2d4cd3c9c)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejTrebacz&layout=donut-vertical&icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Front-End Development:** 🌐
 - Proficient in HTML, CSS, and JavaScript. 💻
